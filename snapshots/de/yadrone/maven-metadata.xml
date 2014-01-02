@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>de.yadrone</groupId>
-  <artifactId>YADrone</artifactId>
+  <artifactId>yadrone</artifactId>
   <versioning>
     <versions>
       <version>0.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130916105739</lastUpdated>
+    <lastUpdated>20120427143211</lastUpdated>
   </versioning>
 </metadata>
